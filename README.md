@@ -29,9 +29,10 @@
 <a href="https://mehmetcannural.com/" target="_blank">Here</a> is my website that you can get more information about me
 <br><br><br><br>
   
+
   <p align="center" dir="auto"><b>Visitors Count</b></p>
-  <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/f428d5a0306d32cebc1396e58667b6cbc34d7e16/68747470733a2f2f7279616e2d6c616e63696175782d636f756e7465722e676c697463682e6d652f636f756e742e737667"><img align="center" src="https://camo.githubusercontent.com/f428d5a0306d32cebc1396e58667b6cbc34d7e16/68747470733a2f2f7279616e2d6c616e63696175782d636f756e7465722e676c697463682e6d652f636f756e742e737667" data-canonical-src="https://profile-counter.glitch.me/{mehmetcnural61}/count.svg" style="max-width: 100%;"></a></p>
-  
+  <p align="center" dir="auto"><a href="https://www.freecounterstat.com" title="web counter"><img src="https://counter9.stat.ovh/private/freecounterstat.php?c=smnnehhg37eycz31nabdja7nt7yqhxne" border="0" title="web counter" alt="web counter"></a>
+</p>
 
 
 
