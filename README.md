@@ -26,7 +26,7 @@
 ✈️<i> I love to travel and get to know new places and cultures. <br>
 ✈️<i> Travelled more than 17 country so far.. <br>
 ⚽<i>Passionate about football and was a ameature player a while ago. <br>
-<a href="https://mehmetcannural.com/" target="_blank">Here</a> is my website that you can get more information about me
+<a href="https://mehmetcannural.dev/" target="_blank">Here</a> is my website that you can get more information about me
 <br><br><br><br>
   
 
